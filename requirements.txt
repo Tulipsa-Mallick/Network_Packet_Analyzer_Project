@@ -1,0 +1,14 @@
+scapy
+colorama
+
+🔍 Why These?
+Package	Purpose
+scapy	 For capturing and analyzing network packets
+colorama For colored terminal output in main.py
+
+ Optional (Later Enhancements):
+If you later add features like exporting to Excel, CSV, or adding GUI, you might include:pandas,tkinter# built-in in most Python installs
+
+
+📦 To Install All Dependencies:
+Run this in your terminal (inside your project folder):pip install -r requirements.txt
